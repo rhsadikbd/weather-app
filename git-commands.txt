@@ -1,0 +1,13 @@
+## If you use git first time on your computer then first of all you have to config git access. follow the command ...
+
+$git config --global user.name -github user name-
+$git config --global user.email -email address-
+
+
+## Git Commands
+$git init				(Git Initializing)
+$git add .				(Git added to stage)
+$git status				(Situation of current git directory)
+$git commit -m "-upload reason-"	(Directory will commit)
+$git remote add origin -repository link	(To upload live by repository)
+$git push origin -brance name-
